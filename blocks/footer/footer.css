@@ -7,7 +7,7 @@
   background-color: #1f1f1f;
 }
 
-.footer_columns {
+.footer__columns {
   width: 90%;
   display: flex;
   justify-content: space-between;
@@ -23,7 +23,7 @@
   justify-content: space-between;
 }
 
-.footer_column_heading {
+.footer__column_heading {
   margin: 0;
   line-height: 30px;
   font-size: 18px;
@@ -54,7 +54,7 @@
   
 }
 
-.footer_author {
+.footer__author {
   color: #f2f2f2;
   margin: 18px auto 18px 0;
   line-height: 25px;

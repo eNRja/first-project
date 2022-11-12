@@ -6,12 +6,12 @@
   z-index:-1;
 }
 
-.section-title_theme_dark {
+.section__title_theme_dark {
   color: #f2f2f2;
   width: 60%;
 }
 
-.section-subtitle_theme_dark {
+.section__subtitle_theme_dark {
   width: 60%;
   color: #f2f2f2;
 }
