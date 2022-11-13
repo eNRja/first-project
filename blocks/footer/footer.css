@@ -7,7 +7,7 @@
   background-color: #1f1f1f;
 }
 
-.footer__columns {
+.columns {
   width: 90%;
   display: flex;
   justify-content: space-between;
@@ -23,7 +23,7 @@
   justify-content: space-between;
 }
 
-.footer__column_heading {
+.column-heading {
   margin: 0;
   line-height: 30px;
   font-size: 18px;
@@ -31,7 +31,7 @@
   color: #f2f2f2;
 }
 
-.footer__column_links {
+.column-links {
   display: flex;
   flex-direction: column;
   line-height: 30px;
@@ -39,7 +39,7 @@
   margin: 20px 0 16px;
 }
 
-.footer__social_icon {
+.social-icon {
   height: 16px;
   width: 16px;
   background-image: url(../logo_place_footer.svg);
@@ -54,7 +54,7 @@
   
 }
 
-.footer__author {
+.author {
   color: #f2f2f2;
   margin: 18px auto 18px 0;
   line-height: 25px;

@@ -6,12 +6,12 @@
   z-index:-1;
 }
 
-.section__title_theme_dark {
+.kaufman__title {
   color: #f2f2f2;
   width: 60%;
 }
 
-.section__subtitle_theme_dark {
+.kaufman__subtitle {
   width: 60%;
   color: #f2f2f2;
 }
