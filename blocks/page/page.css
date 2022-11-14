@@ -8,19 +8,3 @@
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-
-.links {
-  color: #f2f2f2;
-  text-decoration: none;
-}
-
-.links:hover {
-  opacity: 0.3;
-  transition: 0.6s;
-}
-
-.logo {
-  z-index: 2;
-  height: 32px;
-  width: 228px; 
-}
